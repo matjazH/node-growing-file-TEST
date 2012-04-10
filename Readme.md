@@ -1,4 +1,4 @@
-# node-growing-file
+# node-growing-file-TEST
 
 ## Purpose
 
@@ -12,7 +12,7 @@ This module is still fresh. Try it while it's hot.
 
 ## Installation
 
-    npm install growing-file
+    npm install growing-file-TEST
 
 ## Usage
 
