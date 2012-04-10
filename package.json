@@ -1,5 +1,5 @@
 {
-  "name": "growing-file",
+  "name": "growing-file-TEST",
   "description": "A readable file stream for files that are growing.(Test)",
   "version": "0.1.3",
   "homepage": "https://github.com/matjazH/node-growing-file",
