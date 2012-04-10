@@ -2,10 +2,10 @@
   "name": "growing-file-TEST",
   "description": "A readable file stream for files that are growing.(Test)",
   "version": "0.1.3",
-  "homepage": "https://github.com/matjazH/node-growing-file",
+  "homepage": "https://github.com/matjazH/node-growing-file-TEST",
   "repository": {
     "type": "git",
-    "url": "git://github.com/matjazH/node-growing-file.git"
+    "url": "git://github.com/matjazH/node-growing-file-TEST.git"
   },
   "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
   "main": "./index.js",
